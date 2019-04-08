@@ -1,0 +1,11 @@
+<resources>
+    
+    <string name="app_name">Food Recipes</string>
+    <string name="food2fork_api_key">a6651696e62a28e4aaeea0fba141cf47</string>
+    <!--<string name="food2fork_api_key">dc60a75b4711ea035c08c3e086edceb3</string>-->
+    <!--<string name="food2fork_api_key">f910509532a5f438cb6c1e5fc204668d</string>-->
+    <string name="search_recipe_hint">Already have a dish in mind?</string>
+    <string name="no_results_message">There are no available recipes at this moment.</string>
+    <string name="button_search">Search</string>
+
+</resources>
